@@ -1,0 +1,10 @@
+export const LOTTIE_LOADING_CAR = require('../assets/lottie/loadingCar.json');
+export const LOTTIE_SPLASH = require('../assets/lottie/splash.json');
+export const LOTTIE_LOADING_BATTERY = require('../assets/lottie/loadingBattery.json');
+export const LOTTIE_CHARGING_STATION = require('../assets/lottie/chargingStation.json');
+export const LOTTIE_LOADING_LOCATION = require('../assets/lottie/loadingLocation.json');
+export const LOTTIE_LOADING_BALL = require('../assets/lottie/loadingBall.json');
+export const LOTTIE_LOADING_CIRCLES = require('../assets/lottie/loadingCircles.json');
+export const LOTTIE_LOADING_GREEN = require('../assets/lottie/loadingGreen.json');
+export const LOTTIE_BG_BOTTOM = require('../assets/lottie/bottomBlueGreen.json');
+export const LOTTIE_BG_TOP = require('../assets/lottie/topPinkOrange.json');
